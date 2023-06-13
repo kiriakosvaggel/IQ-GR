@@ -39,7 +39,7 @@ Hi, this is Balasim born in a very incient city of Babylon, Iraq.
 I am 31 but it is just a number as I still feel like a boy chasig any ball I see :smile:
 
 ## my faviorite dish is "Dolma"
-### Ingredients*
+### Ingredients
 - [ ] 8 jar grape leaves
 - [ ] 2 tablespoons olive oil, plus more for drizzling
 - [ ] 1 medium yellow onion, finely diced
