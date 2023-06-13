@@ -24,7 +24,7 @@
 -| Kyriakos | 27 | Greece | Head chef | Catlover |
 
  ### Bolognese 
- ![Bolognese] (https://www.istockphoto.com/de/foto/bolognese-sauce-in-einer-pfanne-mit-einem-bund-nudeln-trocken-gm1463897963-496770450)
+ ! [Bolognese] (https://www.istockphoto.com/de/foto/bolognese-sauce-in-einer-pfanne-mit-einem-bund-nudeln-trocken-gm1463897963-496770450)
 - [ ]  **Mincemeat** 1Kg half/half
 - [ ]  **Onions** Chop 500g on cubes
 - [ ]  **Carrots** Chop 500kg on cubes
