@@ -33,7 +33,7 @@
 - [ ]  _pasata_ 1.kg
 - [ ]  _wine_ 230ml
 
- -:heart: Love is a profoundly tender, passionate affection for another person. a feeling of warm personal attachment or deep affection, as for a parent, child, or friend. sexual passion or desire.
+ :heart: Love is a profoundly tender, passionate affection for another person. a feeling of warm personal attachment or deep affection, as for a parent, child, or friend. sexual passion or desire.
   
 Hi, this is Balasim born in a very incient city of Babylon, Iraq.
 I am 31 but it is just a number as I still feel like a boy chasig any ball I see :smile:
